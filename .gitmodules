@@ -1,3 +1,6 @@
 [submodule "CTFd/CTFd/themes/CTFd-theme-pixo"]
 	path = CTFd/CTFd/themes/CTFd-theme-pixo
 	url = https://github.com/hmrserver/CTFd-theme-pixo.git
+[submodule "CTFd/plugins/CTFd_Split_Scoreboard"]
+	path = CTFd/plugins/CTFd_Split_Scoreboard
+	url = https://github.com/durkinza/CTFd_Split_Scoreboard.git
