@@ -1,0 +1,6 @@
+[submodule "CTFd/CTFd/themes/CTFd-theme-pixo"]
+	path = CTFd/CTFd/themes/CTFd-theme-pixo
+	url = https://github.com/hmrserver/CTFd-theme-pixo.git
+[submodule "CTFd/themes/CTFd-theme-pixo"]
+	path = CTFd/themes/CTFd-theme-pixo
+	url = https://github.com/hmrserver/CTFd-theme-pixo.git
